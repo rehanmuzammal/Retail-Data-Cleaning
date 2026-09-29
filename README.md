@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning — Online Retail Dataset
+# Data Cleaning — Online Retail Dataset
 
 ## Objective
 Demonstrate professional-level data cleaning skills by taking a real-world messy dataset and systematically transforming it into a clean, analysis-ready dataset, with every decision documented.
